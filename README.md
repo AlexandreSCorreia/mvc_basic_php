@@ -11,13 +11,14 @@
 </p>
 
 ## :open_book: Sobre
-Este repositório contêm uma estrutura basica em mvc, para desenvolver projetos web.
+Este repositório contêm uma estrutura básica em mvc, para desenvolver projetos web.
 
 
 ## :hammer: Tecnologias
 Este projeto foi feito com as seguintes tecnologias:
 - HTML5
 - CSS3
+- JavaScript
 - PHP 7
 
 ## :rocket: Resultado
